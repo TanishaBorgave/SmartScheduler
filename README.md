@@ -1,7 +1,7 @@
 # Smart Task Scheduler pro
 
 ### **Introduction**
-Smart Task Scheduler is a personal task scheduling application built as a desktop app using Electron. It runs natively on desktop environments, providing offline access and system-level integrations. It employs HTML, CSS, and JavaScript for the user interface, Node.js for backend logic, and SQLite for local data storage, making it suitable for efficient task management on Windows.
+Smart Task Scheduler is a work focus task scheduling application built as a desktop app using Electron. It runs natively on desktop environments, providing offline access and system-level integrations. It employs HTML, CSS, and JavaScript for the user interface, Node.js for backend logic, and SQLite for local data storage, making it suitable for efficient task management on Windows.
 
 Key Features
  - Desktop Focus: Built with Electron for a native desktop experience, unlike SyncForge's web-oriented fullstack setup.
