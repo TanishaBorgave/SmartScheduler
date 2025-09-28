@@ -34,6 +34,7 @@ Example Key Functions
 Clone the repository:
 ```
 git clone https://github.com/Varun-Singh-Rana/Smart-Task-Scheduler.git
+cd Smart-Task-Scheduler
 ```
 Install dependencies:
 ```
@@ -50,3 +51,5 @@ npm start
 > Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ---
+### **Screenshots**
+
