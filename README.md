@@ -61,19 +61,16 @@ Dashboard:
 <br>
 <img src="screenshots/image8.png" width="600"/>
 <br>
-
+Calendar:
 <br>
 <img src="screenshots/image9.png" width="600"/>
 <br>
-
+Reports:
 <br>
 <img src="screenshots/image10.png" width="600"/>
-<br>
-
-<br>
 <img src="screenshots/image11.png" width="600"/>
 <br>
-
+Settings:
 <br>
 <img src="screenshots/image12.png" width="600"/>
 <br>
