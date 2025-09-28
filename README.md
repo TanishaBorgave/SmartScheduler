@@ -34,7 +34,6 @@ Example Key Functions
 Clone the repository:
 ```
 git clone https://github.com/Varun-Singh-Rana/Smart-Task-Scheduler.git
-cd SyncForge
 ```
 Install dependencies:
 ```
