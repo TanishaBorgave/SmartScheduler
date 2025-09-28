@@ -56,16 +56,28 @@ Login:
 <br>
 <img src="screenshots/image6.png" alt="Loaginpage Screenshot" width="600"/>
 <img src="screenshots/image7.png" alt="Loginpage Screenshot" width="600"/>
+<br>
 Dashboard:
+<br>
 <img src="screenshots/image8.png" width="600"/>
+<br>
 
+<br>
 <img src="screenshots/image9.png" width="600"/>
+<br>
 
+<br>
 <img src="screenshots/image10.png" width="600"/>
+<br>
 
+<br>
 <img src="screenshots/image11.png" width="600"/>
+<br>
 
+<br>
 <img src="screenshots/image12.png" width="600"/>
+<br>
 Database:
+<br>
 <img src="screenshots/image13.png" width="600"/>
 <img src="screenshots/image14.png" width="600"/>
