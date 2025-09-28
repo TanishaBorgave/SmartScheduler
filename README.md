@@ -53,6 +53,7 @@ npm start
 ---
 ### **Screenshots**
 Login:
+<br>
 <img src="screenshots/image6.png" alt="Loaginpage Screenshot" width="600"/>
 <img src="screenshots/image7.png" alt="Loginpage Screenshot" width="600"/>
 Dashboard:
