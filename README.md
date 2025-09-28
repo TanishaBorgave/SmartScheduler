@@ -52,12 +52,19 @@ npm start
 
 ---
 ### **Screenshots**
+Login:
 <img src="screenshots/image6.png" alt="Loaginpage Screenshot" width="600"/>
 <img src="screenshots/image7.png" alt="Loginpage Screenshot" width="600"/>
-<img src="screenshots/image8.png" alt="Homepage Screenshot" width="600"/>
-<img src="screenshots/image9.png" alt="Homepage Screenshot" width="600"/>
-<img src="screenshots/image10.png" alt="Homepage Screenshot" width="600"/>
-<img src="screenshots/image11.png" alt="Homepage Screenshot" width="600"/>
-<img src="screenshots/image12.png" alt="Homepage Screenshot" width="600"/>
-<img src="screenshots/image13.png" alt="Homepage Screenshot" width="600"/>
-<img src="screenshots/image14.png" alt="Homepage Screenshot" width="600"/>
+Dashboard:
+<img src="screenshots/image8.png" width="600"/>
+
+<img src="screenshots/image9.png" width="600"/>
+
+<img src="screenshots/image10.png" width="600"/>
+
+<img src="screenshots/image11.png" width="600"/>
+
+<img src="screenshots/image12.png" width="600"/>
+Database:
+<img src="screenshots/image13.png" width="600"/>
+<img src="screenshots/image14.png" width="600"/>
